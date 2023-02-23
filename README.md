@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Avandajs](https://github.com/avandajs)
 
-- 👨🏽‍🏫 Mentoring [Avandajs](https://github.com/bend-the-code)
+- 👨🏽‍🏫 Mentoring [Bend The Code Academy](https://github.com/bend-the-code)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wharley01](https://github.com/Wharley01)
 
