@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/__adewale" target="blank"><img src="https://img.shields.io/twitter/follow/__adewale?logo=twitter&style=for-the-badge" alt="__adewale" /></a> </p>
 
-- 🔭 I’m currently working on [Kiakia Africa](https://kiakia.africa)
+- 🔭 I’m currently a CTO at [Kiakia Africa](https://kiakia.africa)
 
 - 👯 I’m looking to collaborate on [Avandajs](https://github.com/avandajs)
 
 - 👨🏽‍🏫 Mentoring [Bend The Code Academy](https://github.com/bend-the-code)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wharley01](https://github.com/Wharley01)
+- 👨‍💻 Multi-industry software engineering contractor 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
